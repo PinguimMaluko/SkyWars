@@ -2,3 +2,16 @@
 # The second value is the item, this should be an Essentials item string
 items:
 - 100 apple 1
+- 1 stone 30
+- 5 stonesword 1
+- 1 stonepickaxe 1
+- 1 stoneshovel 1
+- 50 diamondchestplate 1
+- 30 ironhelmet 1
+- 20 chainmailleggings 1
+- 10 goldenboots 1
+- 40 goldenapple 4
+- 20 waterbucket 1
+- 1 snowball 5
+- 1 steak 19
+- 23 enderpearl 4
